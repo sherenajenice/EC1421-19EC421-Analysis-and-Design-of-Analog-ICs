@@ -21,7 +21,8 @@ an inverting amplifier and it is given as
 <img width="202" height="70" alt="image" src="https://github.com/user-attachments/assets/3cd34e03-1b28-4e8a-90a6-fe0c096c84cc" />
 
 ## CIRCUIT DIAGRAM: 
-<img width="1277" height="1600" alt="image" src="https://github.com/user-attachments/assets/2e78696f-cc95-4e85-9cd3-ccf7e90d40f1" />
+![Uploading image.png…]()
+
 
 ## MODEL GRAPH:
 <img width="1600" height="1307" alt="image" src="https://github.com/user-attachments/assets/5fb48743-3d4d-4427-9dd9-1ce44cafe64f" />
