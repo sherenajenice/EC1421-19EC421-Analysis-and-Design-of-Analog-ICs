@@ -2,7 +2,6 @@
 # Differential Amplifier
 
 ## AIM: 
-
  To design and construct a  differential amplifier. 
 
  
@@ -21,8 +20,7 @@ an inverting amplifier and it is given as
 <img width="202" height="70" alt="image" src="https://github.com/user-attachments/assets/3cd34e03-1b28-4e8a-90a6-fe0c096c84cc" />
 
 ## CIRCUIT DIAGRAM: 
-![Uploading image.png…]()
-
+<img width="1444" height="956" alt="image" src="https://github.com/user-attachments/assets/f2e62c86-72e9-4c87-9583-4fc0fc1900f4" />
 
 ## MODEL GRAPH:
 <img width="1600" height="1307" alt="image" src="https://github.com/user-attachments/assets/5fb48743-3d4d-4427-9dd9-1ce44cafe64f" />
@@ -39,7 +37,6 @@ constant input voltage Vin2 to inverting terminal of op-amp through R2.
 7. Plot the graph of the input wave versus output wave for any one practical case. 
 
 ## DESIGN
-
 <img width="284" height="156" alt="image" src="https://github.com/user-attachments/assets/48e39114-6231-4be4-9ac3-f0cb8999dc24" />
 
 ## TABULATION:
