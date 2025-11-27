@@ -39,11 +39,10 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## TABULATION:
 ### RC PHASE SHIFT OSCILLATOR:
-<img width="1280" height="428" alt="image" src="https://github.com/user-attachments/assets/adaa0f2c-8c52-4598-a15c-c99abafa18c6" />
-
-### WEIN BRIDGE:
 <img width="1280" height="479" alt="image" src="https://github.com/user-attachments/assets/e8102aab-76ed-4010-a342-0dde20a02d61" />
 
+### WEIN BRIDGE:
+<img width="1280" height="428" alt="image" src="https://github.com/user-attachments/assets/adaa0f2c-8c52-4598-a15c-c99abafa18c6" />
 
 ## GRAPH:
 ### RC PHASE SHIFT OSCILLATOR:
